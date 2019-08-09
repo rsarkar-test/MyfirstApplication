@@ -1,0 +1,5 @@
+﻿1>------ Rebuild All started: Project: MyfirstApplication, Configuration: Debug Any CPU ------
+1>  MyfirstApplication -> D:\Training\Training\MyfirstApplication\MyfirstApplication\bin\MyfirstApplication.dll
+2>------ Rebuild All started: Project: MyfirstApplication.Tests, Configuration: Debug Any CPU ------
+2>  MyfirstApplication.Tests -> D:\Training\Training\MyfirstApplication\MyfirstApplication.Tests\bin\Debug\MyfirstApplication.Tests.dll
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
